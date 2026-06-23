@@ -1,7 +1,7 @@
 # Production Journal — [Thinanthanat Pananon]
 
 รายวิชา: Digital Game Production Management
-วันที่เริ่มต้น: [6/23/2026]
+วันที่เริ่มต้น: [23/6/2026]
 
 ## เกี่ยวกับ Repository นี้
 
